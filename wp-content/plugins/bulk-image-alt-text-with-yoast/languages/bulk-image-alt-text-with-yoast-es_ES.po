@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BIALTY - Bulk Image Alt Text (Alt tag, Alt Attribute) with Yoast SEO + WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-17 12:46+0000\n"
+"PO-Revision-Date: 2019-06-27 12:47+0200\n"
+"Last-Translator: admin <key7i@yahoo.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Loco-Version: 2.3.0; wp-5.1.1\n"
+
+#: bulk-image-alt-text-with-yoast-admin.php:49
+#, php-format
+msgid "<a href=\"%s\">Get Pro version</a> to enable"
+msgstr "<a href=\"%s\">Obtenga la versión Pro</a> para habilitar"
+
+#: bulk-image-alt-text-with-yoast-admin.php:100
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: bulk-image-alt-text-with-yoast-admin.php:110
+msgid "Settings"
+msgstr "Ajustes"
+
+#: bulk-image-alt-text-with-yoast-admin.php:132
+msgid "Yoast SEO is either not installed or disabled. \"Focus Keyword\" won't work (of course). \"Both...\" feature will add only Post titles to Alt tags"
+msgstr "Yoast SEO no está instalado o está deshabilitado. La “Palabra clave de enfoque” no funcionará (por supuesto). La función “Ambos...” añadirá solo los títulos de la Entrada para etiquetas Alt"
+
+#: bulk-image-alt-text-with-yoast-admin.php:139
+msgid "BIALTY, how does it work?"
+msgstr "BIALTY, ¿cómo funciona?"
+
+#: bulk-image-alt-text-with-yoast-admin.php:140
+msgid "1. Select what to do with missing alt tags"
+msgstr "1. Seleccione qué hacer con las etiquetas alt que faltan"
+
+#: bulk-image-alt-text-with-yoast-admin.php:141
+msgid "2. Select what to do with existing alt tags"
+msgstr "2. Seleccione qué hacer con las etiquetas alt existentes"
+
+#: bulk-image-alt-text-with-yoast-admin.php:142
+msgid "3. Click on \"save changes\" and your settings will be applied everywhere."
+msgstr "3. Haga clic en “guardar cambios” y sus ajustes se aplicarán en todas partes."
+
+#: bulk-image-alt-text-with-yoast-admin.php:143
+msgid "4. Bialty will be active for all future publications which means that you won't have to worry anymore about Alt texts."
+msgstr "4. Bialty estará activo para todas las publicaciones futuras, lo que significa que ya no tendrás que preocuparte por los textos Alt."
+
+#: bulk-image-alt-text-with-yoast-admin.php:146
+msgid "About Page and Post Alt texts"
+msgstr "Página Acerca de y Publicación"
+
+#: bulk-image-alt-text-with-yoast-admin.php:151 bulk-image-alt-text-with-yoast-admin.php:205 bulk-image-alt-text-with-yoast-admin.php:257
+msgid "Replace Missing Alt Tags with"
+msgstr "Reemplace las etiquetas Alt que faltan por"
+
+#: bulk-image-alt-text-with-yoast-admin.php:157 bulk-image-alt-text-with-yoast-admin.php:182 bulk-image-alt-text-with-yoast-admin.php:211 bulk-image-alt-text-with-yoast-admin.php:236 bulk-image-alt-text-with-yoast-admin.php:263 bulk-image-alt-text-with-yoast-admin.php:287
+msgid "Yoast Focus Keyword"
+msgstr "Palabra clave de Yoast Focus"
+
+#: bulk-image-alt-text-with-yoast-admin.php:160 bulk-image-alt-text-with-yoast-admin.php:185 bulk-image-alt-text-with-yoast-admin.php:214 bulk-image-alt-text-with-yoast-admin.php:239 bulk-image-alt-text-with-yoast-admin.php:266 bulk-image-alt-text-with-yoast-admin.php:290
+msgid "Post Title"
+msgstr "Título de la Entrada"
+
+#: bulk-image-alt-text-with-yoast-admin.php:163 bulk-image-alt-text-with-yoast-admin.php:188 bulk-image-alt-text-with-yoast-admin.php:217 bulk-image-alt-text-with-yoast-admin.php:242 bulk-image-alt-text-with-yoast-admin.php:269 bulk-image-alt-text-with-yoast-admin.php:293
+msgid "Both Focus Keyword & Post Title"
+msgstr "Palabras clave de enfoque y título de la entrada"
+
+#: bulk-image-alt-text-with-yoast-admin.php:166 bulk-image-alt-text-with-yoast-admin.php:191 bulk-image-alt-text-with-yoast-admin.php:220 bulk-image-alt-text-with-yoast-admin.php:245 bulk-image-alt-text-with-yoast-admin.php:272 bulk-image-alt-text-with-yoast-admin.php:296
+msgid "Disable"
+msgstr "Deshabilitar"
+
+#: bulk-image-alt-text-with-yoast-admin.php:175 bulk-image-alt-text-with-yoast-admin.php:229 bulk-image-alt-text-with-yoast-admin.php:281
+msgid "Replace Defined Alt Tags with"
+msgstr "Reemplazar etiquetas Alt definidas con"
+
+#: bulk-image-alt-text-with-yoast-admin.php:198
+msgid "About Product Alt texts (for Woocommerce)"
+msgstr "Textos Alt de Acerca de productos (para Woocommerce)"
+
+#: bulk-image-alt-text-with-yoast-admin.php:303
+msgid "Bulk Image Alt Text for Woocommerce Products"
+msgstr "Texto Alt de imagen masiva para productos Woocommerce"
+
+#: bulk-image-alt-text-with-yoast-admin.php:316
+msgid "Add Site Title"
+msgstr "Agregar título de sitio"
+
+#: bulk-image-alt-text-with-yoast-admin.php:330
+msgid "Add website title defined in Settings &raquo; General to alt text as well"
+msgstr "Añade el título del sitio web definido en Configuración &raquo; General al texto alt también"
+
+#: bulk-image-alt-text-with-yoast-admin.php:340
+msgid "Delete Settings"
+msgstr "Eliminar configuración"
+
+#: bulk-image-alt-text-with-yoast-admin.php:354
+msgid "Checking this box will remove all settings when you deactivate plugin."
+msgstr "Al marcar esta casilla se eliminarán todos los ajustes al desactivar el plugin."
+
+#: bulk-image-alt-text-with-yoast-admin.php:364
+msgid "Boost your ranking on Search engines"
+msgstr "Aumenta tu clasficiación en los motores de búsqueda"
+
+#: bulk-image-alt-text-with-yoast-admin.php:376
+msgid "Optimize site's crawlability with an optimized robots.txt"
+msgstr "Optimiza la capacidad de rastreo del sitio con un archivo robots.txt optimizado"
+
+#: bulk-image-alt-text-with-yoast-admin.php:381
+#, php-format
+msgid "Click <a href=\"%s\" target=\"_blank\">HERE</a> to Install <a href=\"%2s\" target=\"_blank\">Better Robots.txt plugin</a> to boost your robots.txt"
+msgstr "Haz clic <a href=\"%s\" target=\"_blank\">AQUÍ</a> para instalar el <a href=\"%2s\" target=\"_blank\">complemento Better Robots.txt </a> para mejorar tu robots.txt"
+
+#: bulk-image-alt-text-with-yoast-admin.php:401
+msgid "Mobile-Friendly & responsive design"
+msgstr "Diseño compatible con dispositivos móviles y con capacidad de respuesta"
+
+#: bulk-image-alt-text-with-yoast-admin.php:413
+msgid "Get dynamic mobile previews of your pages/posts/products + Facebook debugger"
+msgstr "Obtén previsualizaciones móviles dinámicas de tus páginas/publicaciones/productos + depurador de Facebook"
+
+#: bulk-image-alt-text-with-yoast-admin.php:418
+#, php-format
+msgid "Click <a href=\"%s\" target=\"_blank\">HERE</a> to Install <a href=\"%2s\" target=\"_blank\">Mobilook</a> and test your website on Dualscreen format (Galaxy fold)"
+msgstr "Haz clic <a href=\"%s\" target=\"_blank\">AQUÍ</a> para instalar <a href=\"%2s\" target=\"_blank\">Mobilook</a> y probar tu sitio web en formato Dualscreen (Galaxy fold)"
+
+#: bulk-image-alt-text-with-yoast-admin.php:434
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: bulk-image-alt-text-with-yoast-admin.php:437
+msgid "How to check your Alt texts now?"
+msgstr "¿Cómo comprobar tus textos Alt ahora?"
+
+#: bulk-image-alt-text-with-yoast-admin.php:438
+msgid "Go to your website, click right on a webpage and select \"Show Page Source.\" (Firefox, Safari, Chrome, Internet Explorer,...). Scroll down to the appropriate section (displaying your content), after header area and before footer area. You will be able to identify your modified Alt Texts with your post title (if selected), your Yoast's Focus Keyword (if used) and your site name (if selected), separated with a comma. Please note that BIALTY modifies image Alt texts on Frontend (in your HTML code), not on backend (Media LIbrary, etc.), which would be useless for search engines. Want more details about this? Check our video :"
+msgstr "Ve a tu sitio web, haz clic derecho en una página web y selecciona “Mostrar origen de la página”. (Firefox, Safari, Chrome, Internet Explorer,...). Desplázate hacia abajo hasta la sección correspondiente (mostrando tu contenido), después del área de encabezado y antes del área de pie de página. Podrás identificar tus textos modificados con el título de tu publicación (si está seleccionado), la palabra clave de enfoque de Yoast (si se usa) y el nombre de tu sitio (si está seleccionado), separados por una coma. Ten en cuenta que BIALTY modifica los textos Alt de imagen en Frontend (en tu código HTML), no en backend (Medioteca , etc.), lo que sería inútil para los motores de búsqueda. ¿Quieres más detalles sobre esto? Ve nuestro video:"
+
+#: bulk-image-alt-text-with-yoast-admin.php:442
+msgid "IMPORTANT: BIALTY plugin modifies image alt texts on front-end. Any empty or existing alt text will be replaced according to settings above. About Yoast SEO, please note that it \"checks\" content in real time inside text editor in Wordpress back-end, so even if Yoast does not display a green bullet for the \"image alt attributes\" line, BIALTY is still doing the job. For your information, Google Bot and other search engine bots see only image alt attributes on Front-end (not as Yoast reading content inside text editor)"
+msgstr "IMPORTANTE: El plugin BIALTY modifica los textos alt de la imagen en el front-end. Cualquier texto alternativo vacío o existente será reemplazado de acuerdo con la configuración anterior. Acerca de Yoast SEO, tenga en cuenta que “comprueba” el contenido en tiempo real dentro del editor de texto en Wordpress back-end, por lo que, incluso si Yoast no muestra una viñeta verde para la línea de “atributos alt de imagen”, BIALTY todavía está haciendo el trabajo. Para su información, Google Bot y otros bots de motores de búsqueda solo ven atributos alt de imagen en front-end (no como si Yoast estuviera leyendo contenido dentro del editor de texto)"
+
+#: bulk-image-alt-text-with-yoast-admin.php:446
+msgid "Note 1: BIALTY is fully compatible with most popular page builders (TinyMCE, SiteOrigin, Elementor, Gutenberg)"
+msgstr "Nota 1: BIALTY es totalmente compatible con los constructores de páginas más populares (TinyMCE, SiteOrigin, Elementor, Gutenberg)"
+
+#: bulk-image-alt-text-with-yoast-admin.php:447
+msgid "Note 2: If you've installed YOAST SEO but did not optimize yet, select \"Both Focus Keyword & Post title\""
+msgstr "Nota 2: Si has instalado YOAST SEO pero aún no se ha optimizado, selecciona “Palabra clave de enfoque y título de publicación”"
+
+#: bulk-image-alt-text-with-yoast-admin.php:448
+msgid "Note 3: If you did not install YOAST SEO plugin, please keep default settings. BIALTY will add your post titles to Alt tags."
+msgstr "Nota 3: Si no instaló el plugin SEO YOAST, por favor mantenga la configuración predeterminada. BIALTY añadirá los títulos de sus entradas a las etiquetas Alt."
+
+#: bulk-image-alt-text-with-yoast-admin.php:525
+msgid "Use Custom Alt Text for all images?*"
+msgstr "¿Usar texto Alt personalizado para todas las imágenes? *"
+
+#: bulk-image-alt-text-with-yoast-admin.php:530 bulk-image-alt-text-with-yoast-admin.php:552
+msgid "Yes"
+msgstr "Sí"
+
+#: bulk-image-alt-text-with-yoast-admin.php:533 bulk-image-alt-text-with-yoast-admin.php:555
+msgid "No"
+msgstr "No"
+
+#: bulk-image-alt-text-with-yoast-admin.php:542
+msgid "Insert your custom Alt text (other than Yoast Focus Keyword & page title)"
+msgstr "Inserta el texto Alt personalizado (distinto de la palabra clave de enfoque de Yoast y el título de la página)"
+
+#: bulk-image-alt-text-with-yoast-admin.php:547
+msgid "Disable Bialty?"
+msgstr "¿Desactivar Bialty?"
+
+#: bulk-image-alt-text-with-yoast-admin.php:559
+msgid "*If NO, default Bialty settings will be applied"
+msgstr "* Si NO, se aplicará la configuración predeterminada de Bialty"
+
+#: bulk-image-alt-text-with-yoast.php:79
+#, php-format
+msgid "Hey %1$s, %2$s Click on Allow & Continue to start optimizing your images with ALT tags :)!  Don't spend hours at adding manually alt tags to your images. BIALTY will use your YOAST settings automatically to get better results on search engines and improve your SEO. %2$s Never miss an important update -- opt-in to our security and feature updates notifications. %2$s See you on the other side."
+msgstr "Hey %1$s,%2$s Haga clic en Permitir y continuar para comenzar a optimizar sus imágenes con etiquetas ALT. :) No dedique horas agregando manualmente las etiquetas alt a sus imágenes. BIALTY usará su configuración de YOAST automáticamente para obtener los mejores resultados en los motores de búsqueda y mejorar su SEO. %2$s Nunca se pierda una actualización importante: suscríbase a nuestras notificaciones de actualizaciones de seguridad y características.%2$s Nos vemos en el otro lado."
+
+#: inc/faq.php:5
+msgid "1.What is alt text?"
+msgstr "1. ¿Qué es el texto alt (o alternativo)?"
+
+#: inc/faq.php:9
+msgid "Alt text (alternative text), also known as \"alt attributes\", “alt descriptions,” and technically incorrectly as \"alt tags,” are used within an HTML code to describe the appearance and function of an image on a page."
+msgstr "El texto alt (texto alternativo), también conocido como “atributos alt”, “descripciones alt”, y técnicamente incorrectamente como “etiquetas alt”, se utiliza dentro de un código HTML para describir la apariencia y la función de una imagen en una página."
+
+#: inc/faq.php:12
+msgid "How to use Alt text:"
+msgstr "Cómo usar el texto Alt:"
+
+#: inc/faq.php:15
+msgid "Adding alternative text to photos is first and foremost a principle of web accessibility. Visually impaired users using screen readers will be read an alt attribute to better understand an on-page image."
+msgstr "Agregar texto alternativo a las fotos es ante todo un principio de accesibilidad web. Los usuarios con discapacidad visual que utilizan lectores de pantalla recibirán un atributo alt para comprender mejor una imagen en la página."
+
+#: inc/faq.php:16
+msgid "Alt tags will be displayed in place of an image if an image file cannot be loaded."
+msgstr "Las etiquetas Alt se mostrarán en lugar de una imagen si no se puede cargar un archivo de imagen."
+
+#: inc/faq.php:17
+msgid "Alt tags provide better image context/descriptions to search engine crawlers, helping them to index an image properly."
+msgstr "Las etiquetas Alt proporcionan mejor contexto/descripciones de la imagen a los rastreadores de motores de búsqueda, ayudándoles a indexar una imagen correctamente."
+
+#: inc/faq.php:26
+msgid "Appropriate length?"
+msgstr "¿Cuál es la longitud adecuada?"
+
+#: inc/faq.php:30
+msgid "Google seemed to count the first 16 words in the ALT tag and interestingly in the snippet Google uses, it does seem to completely cut off the rest of the ALT and from the 17th word. Having 16 words to work with might prove very useful if you are using ALT tags to describe more complex images. There is potentially plenty of available space to describe images properly for accessibility purposes AND SEO impact."
+msgstr "Google parecía contar las primeras 16 palabras en la etiqueta ALT, y curiosamente en el fragmento que utiliza Google, parece cortar completamente el resto de la ALT y desde la palabra 17. Tener 16 palabras con las que trabajar podría resultar muy útil si está utilizando etiquetas ALT para describir imágenes más complejas. Existe potencialmente un montón de espacio disponible para describir las imágenes correctamente con fines de accesibilidad e impacto SEO."
+
+#: inc/faq.php:39
+msgid "How Image Alt Tags and Meta Data Help SEO"
+msgstr "Cómo las etiquetas Alt de imagen y los metadatos ayudan al SEO"
+
+#: inc/faq.php:43
+msgid "Optimizing your images for SEO helps crawlers better index your web pages, which in turn can give you a rankings boost because it can make the page more relevant to users."
+msgstr "Optimizar sus imágenes para el SEO ayuda a los rastreadores a indexar mejor sus páginas web, lo que a su vez puede darle un impulso de clasificación porque puede hacer que la página sea más relevante para los usuarios."
+
+#: inc/faq.php:46
+msgid "Let’s say a searcher needs plumber repairs for a clogged bathroom drain. Google has to choose between two web pages from different companies, both of which have equal ranking factors."
+msgstr "Digamos que un persona necesita reparaciones para un desagüe de baño obstruido. Google tiene que elegir entre dos páginas web de diferentes empresas, las cuales tienen los mismos factores de clasificación."
+
+#: inc/faq.php:49
+msgid "As the crawler reads through the first page, it doesn’t identify any image alt-tags, therefore, it assumes the images (if there are any) do not add page-specific value. On the second page, however, the crawler locates five images, each one with a full description of what the image is showing. All five images’ alt tags supplement the rest of the text on the page."
+msgstr "A medida que el rastreador lee la primera página, no identifica ninguna etiqueta alt de la imagen, por lo tanto, asume que las imágenes (si las hay) no agregan un valor específico de la página. En la segunda página, sin embargo, el rastreador encuentra cinco imágenes, cada una con una descripción completa de lo que muestra la imagen. Las cinco etiquetas alt de imágenes complementan el resto del texto de la página."
+
+#: inc/faq.php:52
+msgid "Since Google is all about spitting out the results you’ll most likely jive with, it’s going to go with the article that it thinks is more relevant."
+msgstr "Dado que Google solo trata de arrojar los resultados con los que usted probablemente se quede, este usará el artículo que cree que es más relevante para usted."
+
+#: inc/notices.php:35
+#, php-format
+msgid "Show support for BIALTY - Bulk Image Alt Text (Alt tag, Alt Attribute) with Yoast SEO + WooCommerce with a 5-star rating » <a href=\"%s\" target=\"_blank\">Click here</a>"
+msgstr "Muestre su apoyo para BIALTY - Bulk Image Alt Text (etiqueta Alt, atributo Alt) con Yoast SEO + WooCommerce con una calificación de 5 estrellas” <a href=\"%s\" target=\"_blank\">Haga clic aquí</a>"
+
+#: inc/recommendations.php:4
+msgid "Schema App Structured Data by Hunch Manifest"
+msgstr "Datos estructurados de la aplicación de esquema por Hunch Manifest"
+
+#: inc/recommendations.php:5
+msgid "Get Schema.org structured data for all pages, posts, categories and profile pages on activation."
+msgstr "Obtén datos estructurados de Schema.org para todas las páginas, publicaciones, categorías y páginas de perfil en la activación."
+
+#: inc/recommendations.php:10
+msgid "Yasr – Yet Another Stars Rating by Dario Curvino"
+msgstr "Yasr – Yet Another Stars Rating por Dario Curvino"
+
+#: inc/recommendations.php:11
+msgid "Boost the way people interact with your website, e-commerce or blog with an easy and intuitive WordPress rating system!"
+msgstr "¡Mejora la forma en que las personas interactúan con tu sitio web, comercio electrónico o blog con un sistema de calificación de WordPress fácil e intuitivo!"
+
+#: inc/recommendations.php:16
+msgid "Better Robots.txt optimization – Website indexing, traffic, ranking & SEO Booster + Woocommerce"
+msgstr "Optimización Better Robots.txt — Indexación de sitios web, tráfico, clasificación y SEO Booster + Woocommerce"
+
+#: inc/recommendations.php:17
+msgid "Better Robots.txt is an all in one SEO robots.txt plugin, it creates a virtual robots.txt including your XML sitemaps (Yoast or else) to boost your website ranking on search engines."
+msgstr "Better Robots.txt es un complemento de robots.txt SEO todo en uno, crea un robots.txt virtual incluyendo tus sitemaps XML (Yoast o más) para aumentar tu clasificación de sitios web en los motores de búsqueda."
+
+#: inc/recommendations.php:22
+msgid "Smush Image Compression and Optimization By WPMU DEV"
+msgstr "Compresión y optimización de imágenes Sush por WPMU DEV"
+
+#: inc/recommendations.php:23
+msgid "Compress and optimize (or optimise) image files, improve performance and boost your SEO rank using Smush WordPress image compression and optimization."
+msgstr "Comprime y optimiza archivos de imagen, mejora el rendimiento y aumenta tu rango SEO usando compresión y optimización de imágenes Smush WordPress."
+
+#: inc/recommendations.php:28
+msgid "404 to 301 By Joel James"
+msgstr "404 to 301 por Joel James"
+
+#: inc/recommendations.php:29
+msgid "Automatically redirect, log and notify all 404 page errors to any page using 301 redirection..."
+msgstr "Redirige, registra y notifica automáticamente todos los errores de página 404 a cualquier página usando redirección 301..."
+
+#: inc/recommendations.php:34
+msgid "Yoast SEO By Team Yoast"
+msgstr "Yoast SEO por Team Yoast"
+
+#: inc/recommendations.php:35
+msgid "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin."
+msgstr "Mejora tu WordPress SEO: Escribe mejor contenido y ten un sitio de WordPress totalmente optimizado utilizando el complemento Yoast SEO."
+
+#: inc/recommendations.php:43
+msgid "Top plugins for SEO performance:"
+msgstr "Los mejores complementos para el rendimiento SEO:"
+
+#: inc/recommendations.php:49
+msgid "BIALTY - Bulk Image Alt Text by Pagup provides a selection of plugins allowing to keep your website healthy, get better results on Search engines and increase your sales for ecommerce solutions."
+msgstr "BIALTY - Bulk Image Alt Text por Pagup proporciona una selección de complementos que permiten mantener tu sitio web saludable, obtener mejores resultados en los motores de búsqueda y aumentar tus ventas para soluciones de comercio electrónico."
+
+#: inc/recommendations.php:69 inc/recommendations.php:175
+msgid "Download"
+msgstr "Descargar"
+
+#: inc/recommendations.php:81
+msgid "WP-Optimize by David Anderson, Ruhani Rabin, Team Updraft"
+msgstr "WP-Optimize por David Anderson, Ruhani Rabin, Equipo Updraft"
+
+#: inc/recommendations.php:82
+msgid "WP-Optimize is WordPress's most-installed optimization plugin. With it, you can clean up your database easily and safely, without manual queries."
+msgstr "WP-Optimize es el complemento de optimización más instalado de WordPress. Con él, puedes limpiar tu base de datos de forma fácil y segura, sin consultas manuales."
+
+#: inc/recommendations.php:87
+msgid "WordPress Share Buttons Plugin – AddThis By The AddThis Team"
+msgstr "Complemento Botones de compartir de WordPress — AddThis por el equipo AddThis"
+
+#: inc/recommendations.php:88
+msgid "Share buttons from AddThis help you get more traffic from sharing through social networks."
+msgstr "Botones de compartir desde AddThis te ayuda a obtener más tráfico al compartir a través de las redes sociales."
+
+#: inc/recommendations.php:93
+msgid "WP-SpamShield WordPress Anti-Spam Plugin by Red Sand Media Group"
+msgstr "Complemento WP-Spamshield WordPress Anti-Spam por Red Sand Media Group"
+
+#: inc/recommendations.php:94
+msgid "WP-SpamShield is a leading WordPress anti-spam plugin that stops spam instantly and improves your site's security. "
+msgstr "WP-Spamshield es un complemento anti-spam de WordPress que detiene el spam al instante y mejora la seguridad de tu sitio. "
+
+#: inc/recommendations.php:99
+msgid "OneSignal – Free Web Push Notifications By OneSignal"
+msgstr "OneSignal — Notificaciones automáticas web gratuitas por OneSignal"
+
+#: inc/recommendations.php:100
+msgid "Increase engagement and drive more repeat traffic to your WordPress site with desktop push notifications. Now supporting Chrome, Firefox, and Safari."
+msgstr "Aumenta el compromiso y conduce más tráfico repetido a tu sitio de WordPress con notificaciones automáticas de escritorio. Ahora es compatible con Chrome, Firefox y Safari."
+
+#: inc/recommendations.php:105
+msgid "WPfomify - Social Proof & FOMO Marketing Plugin"
+msgstr "WPfomify - Complemento Social Proof & FOMO Marketing"
+
+#: inc/recommendations.php:106
+msgid "WPfomify increases conversion rates on your websites by displaying recent interaction, sales and sign-ups"
+msgstr "WPfomify aumenta las tasas de conversión en tus sitios web al mostrar interacciones recientes, ventas y registros"
+
+#: inc/recommendations.php:111
+msgid "Recart - Abandoned Cart Toolbox"
+msgstr "Recart - Abandoned Cart Toolbox"
+
+#: inc/recommendations.php:112
+msgid "Recart Messenger Marketing and Abandoned Cart Toolbox is a All in one cart recovery marketing tools for ecommerce solution"
+msgstr "Recart Messenger Marketing y Abandoned Cart Toolbox es una herramienta de marketing de recuperación del carro de compra todo en uno para la solución de comercio electrónico"
+
+#: inc/recommendations.php:117
+msgid "Wp-Roket - Probably the best caching Plugin for WordPress"
+msgstr "Wp-Roket - Probablemente el mejor complemento de almacenamiento en caché para WordPress"
+
+#: inc/recommendations.php:118 inc/recommendations.php:136
+msgid "Speed up your WordPress website, more traffic, conversions and money with WP Rocket caching plugin."
+msgstr "Acelera tu sitio web de WordPress, más tráfico, conversiones y dinero con el complemento de caché WP Rocket."
+
+#: inc/recommendations.php:123
+msgid "Nofollow for external link By CyberNetikz"
+msgstr "Nofollow para enlace externo por CyberNetikz"
+
+#: inc/recommendations.php:124
+msgid "Automatically insert rel=nofollow and target=_blank to all the external links into your website posts, pages or menus. Support exclude domain."
+msgstr "Inserta automáticamente rel=nofollow y target=_blank a todos los enlaces externos en las publicaciones de tu sitio web, páginas o menús. Suporte excluye dominio."
+
+#: inc/recommendations.php:129
+msgid "Google Reviews Widget By RichPlugins"
+msgstr "Widget de Google Reviews por RichPlugins"
+
+#: inc/recommendations.php:130
+msgid "Google Reviews Widget show Google Places Reviews on your WordPress website to increase user confidence and SEO."
+msgstr "El widget de Google Reviews muestra Google Places Reviews en tu sitio web de WordPress para aumentar la confianza del usuario y SEO."
+
+#: inc/recommendations.php:135
+msgid "WP Chatbot for facebook Messenger customer chat By HoliThemes"
+msgstr "WP Chatbot para el Facebook Messenger del cliente Por HoliThemes"
+
+#: inc/recommendations.php:141
+msgid "WP Google My Business Auto Publish By Martin Gibson"
+msgstr "WP Google My Business Auto Publish por Martin Gibson"
+
+#: inc/recommendations.php:142
+msgid "WP Google My Business Auto Publish lets you publish posts, custom posts and pages automatically from WordPress to your Google My Business page."
+msgstr "WP Google My Business Auto Publish te permite hacer publicaciones regulares, publicaciones personalizadas y páginas automáticamente desde WordPress a tu página de Google My Business."
+
+#: inc/recommendations.php:147
+msgid "WP Search Console"
+msgstr "Consola de búsqueda WP"
+
+#: inc/recommendations.php:148
+msgid "A new way to boost your marketing content. Writing Web Content that is ranking like those of SEO Experts."
+msgstr "Una nueva forma de aumentar tu contenido de marketing. Escribir contenido web que se clasifica como los de los SEO expertos."
+
+#: inc/recommendations.php:156
+msgid "Awesome plugins for SEO & Conversion performance:"
+msgstr "Impresionantes complementos para SEO y rendimiento de conversión:"
+
+#: inc/recommendations.php:186
+msgid "Upgrade to PRO version to UNLOCK 12 additional awesome plugins recommendations for SEO & Conversion performance"
+msgstr "Actualiza a la versión PRO para DESBLOQUERAR 12 recomendaciones adicionales de complementos increíbles para SEO y rendimiento de conversión"
+
+#: inc/recommendations.php:192
+msgid "Want to suggest another plugin ? ... Send us a message at support@better-robots.com"
+msgstr "¿Quieres sugerir otro complemento? Envíanos un mensaje a support@better-robots.com"
+
+#: inc/seo-recommendations.php:1
+msgid "SEO tools recommended by BIALTY !:"
+msgstr "Herramientas SEO recomendadas por BIALTY! :"
+
+#: inc/seo-recommendations.php:5
+msgid "Premium Feature"
+msgstr "Característica Premium"
+
+#: inc/seo-recommendations.php:12
+msgid "Loading performance"
+msgstr "Rendimiento de carga"
+
+#: inc/seo-recommendations.php:13
+msgid "Get insight on how well your site loads with actionable recommendations on how to optimize it."
+msgstr "Obtén información sobre cómo se carga tu sitio con recomendaciones prácticas sobre cómo optimizarlo."
+
+#: inc/seo-recommendations.php:16 inc/seo-recommendations.php:18
+msgid "Analyse my site"
+msgstr "Analizar mi sitio"
+
+#: inc/seo-recommendations.php:26
+msgid "Google Ranking"
+msgstr "Ranking de Google"
+
+#: inc/seo-recommendations.php:27
+msgid "Analyse your Google ranking with keywords, traffic and more (REGISTER TO GET 10 FREE REQUESTS)"
+msgstr "Analiza tu clasificación de Google con palabras clave, tráfico y mucho más (REGÍSTRATE para obtener 10 solicitudes gratuitas)"
+
+#: inc/seo-recommendations.php:30 inc/seo-recommendations.php:32
+msgid "My Google Ranking"
+msgstr "Mi ranking de Google"
+
+#: inc/seo-recommendations.php:44
+msgid "Dead links"
+msgstr "Enlaces muertos"
+
+#: inc/seo-recommendations.php:45
+msgid "Dead links, 404 errors, 503 errors, ... all bad links that could hurt your website ranking."
+msgstr "Enlaces muertos, errores 404, errores 503... todos los enlaces malos que podrían dañar la clasificación de tu sitio web."
+
+#: inc/seo-recommendations.php:48 inc/seo-recommendations.php:50
+msgid "Check my links"
+msgstr "Consultar mis enlaces"
+
+#: inc/seo-recommendations.php:58
+msgid "SEO Score"
+msgstr "Puntuación SEO"
+
+#: inc/seo-recommendations.php:59
+msgid "Get a simple and professional-quality SEO audit of your website for FREE"
+msgstr "Obtén una auditoría SEO simple y profesional de tu sitio web GRATIS"
+
+#: inc/seo-recommendations.php:62 inc/seo-recommendations.php:64
+msgid "My SEO profile"
+msgstr "Mi perfil SEO"
+
+#: inc/seo-recommendations.php:80
+msgid "Index Your Website (Google)"
+msgstr "Indexa tu sitio web (Google)"
+
+#: inc/seo-recommendations.php:81
+msgid "Submit your website to Google Search Console and enjoy the real benefit of Better Robots.txt"
+msgstr "Envía tu sitio web a Google Search Console y disfruta del beneficio real de Better Robots.txt"
+
+#: inc/seo-recommendations.php:82
+msgid "Google Search Console"
+msgstr "Google Search Console"
+
+#: inc/seo-recommendations.php:88
+msgid "Index your Website (Bing)"
+msgstr "Indexa tu sitio web (Bing)"
+
+#: inc/seo-recommendations.php:89
+msgid "Submit your website to Bing Webmaster tool and enjoy the real benefit of Better Robots.txt"
+msgstr "Envía tu sitio web a Bing Webmaster y disfruta del beneficio real de Better Robots.txt"
+
+#: inc/seo-recommendations.php:90
+msgid "Bing Webmaster tool"
+msgstr "Herramienta Webmaster de Bing"
+
+#: inc/sidebar.php:7
+msgid "Subscribe & get a 10% OFF"
+msgstr "Suscríbase y obtenga un 10 % de descuento"
+
+#: inc/sidebar.php:8
+#, php-format
+msgid "Enter your email to get our SEO best practice guide AND a 10% coupon code on BIALTY for Woocommerce plugin."
+msgstr "Introduzca su correo electrónico para obtener nuestra guía de buenas prácticas SEO y un código de cupón del 10% en BIALTY para el plugin Woocommerce."
+
+#: inc/sidebar.php:13
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/sidebar.php:16
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: inc/sidebar.php:24
+msgid "BOOST YOUR RANKING"
+msgstr "AUMENTE SU CLASIFICACIÓN"
+
+#: inc/sidebar.php:25
+msgid "Optimize your Robots.txt with Better Robots.txt (made by PAGUP) & Boost your ranking on search engines."
+msgstr "Optimice su Robots.txt con Better Robots.txt (creado por PAUP) y aumente su clasificación en los motores de búsqueda."
+
+#: inc/sidebar.php:26
+msgid "Try Better Robots.txt &raquo;"
+msgstr "Pruebe Better Robots.txt &raquo;"
+
+#. Name of the plugin
+msgid "BIALTY - Bulk Image Alt Text (Alt tag, Alt Attribute) with Yoast SEO + WooCommerce"
+msgstr "BIALTY - Bulk Image Alt Text (etiquetas Alt, Atributos Alt) con Yoast SEO + WooCommerce"
+
+#. Description of the plugin
+msgid "Auto-add Alt texts, also called Alt Tags or Alt Attributes, from YOAST SEO Focus Keyword field (or page/post/product title) with your page/post/product title, to all images contained on your pages, posts, products, portfolios for better Google Ranking on search engines – Fully compatible with Woocommerce"
+msgstr "Auto-añada textos Alt, también llamados Etiquetas Alt o Atributos Alt, desde el campo YOAST SEO Focus Keyword (o página/entrada/título del producto) con su página/entrada/título del producto, a todas las imágenes contenidas en sus páginas, entradas, productos, portafolios para mejorar la clasificación de Google en los motores de búsqueda — Totalmente compatible con Woocommerce"
+
+#. Author of the plugin
+msgid "Pagup"
+msgstr "Pagup"
+
+#. Author URI of the plugin
+msgid "https://pagup.com/"
+msgstr "https://pagup.com/"
